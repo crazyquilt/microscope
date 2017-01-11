@@ -23,3 +23,6 @@ mizzao:bootstrap-3
 underscore
 iron:router
 sacha:spin
+stylus
+ian:accounts-ui-bootstrap-3
+accounts-password@1.3.3
